@@ -1,0 +1,5 @@
+google.generativeai
+jsonschema
+json
+dotenv
+requests
