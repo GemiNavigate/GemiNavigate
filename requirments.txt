@@ -1,5 +1,4 @@
-google.generativeai
+google-generativeai
 jsonschema
-json
-dotenv
+python-dotenv
 requests
