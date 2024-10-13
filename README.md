@@ -12,7 +12,7 @@ npx react-native init <project-name>
 4. # open another terminal
 npx react-native run-android
 ```
-### install package
+### Install package
 ```bash
 yarn add react-native-maps
  
@@ -24,5 +24,13 @@ yarn add react-native-get-random-values
 yarn add react-native-maps-directions
 
 yarn add react-native-get-location
+```
+### Install package for multi page
+```bash
+# using 'yarn add' is also available
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npm install react-native-screens
+npm install react-native-safe-area-context
 ```
 
