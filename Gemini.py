@@ -18,7 +18,7 @@ class GemiHandler():
         genai.configure(api_key=self.config["GEMINI_API_KEY"])
         # Create the model
         generation_config = {
-            "temperature": 0.1,
+            "temperature": 0.0,
             "top_p": 0.95,
             "top_k": 64,
             "max_output_tokens": 8192,
